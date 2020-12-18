@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MainMush)(type Legacy)(uri ${KIPRJMOD}/MainMush.lib)(options "")(descr ""))
+)

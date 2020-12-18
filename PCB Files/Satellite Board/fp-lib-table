@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SatelliteMush)(type KiCad)(uri ${KIPRJMOD}/SatelliteMush.pretty)(options "")(descr ""))
+)

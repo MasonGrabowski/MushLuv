@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SatelliteMush)(type Legacy)(uri ${KIPRJMOD}/SatelliteMush.lib)(options "")(descr ""))
+)
